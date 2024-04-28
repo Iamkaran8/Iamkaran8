@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Karan S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate React developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkaran8&label=Profile%20views&color=0e75b6&style=flat" alt="iamkaran8" /> </p>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **React js,Javascript, Wordpress**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Bootstrap,React, Python, And Edureka Full Stack Master Courrse**
+- 💬 Ask me about **Javascript,React, Wordpress**
 
-- 📝 I regularly write articles on [http://karanthecoder.blogspot.com/](http://karanthecoder.blogspot.com/)
+- 📫 How to reach me **karansenthil1721@gmail.com**
 
-- 💬 Ask me about **Javascript,React, Python**
 
-- 📫 How to reach me **karanwebdev8@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XVsTingrAVUNTl6gNHPo6yrGP6d4W7vH/view?usp=sharing](https://drive.google.com/file/d/1XVsTingrAVUNTl6gNHPo6yrGP6d4W7vH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
